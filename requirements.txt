@@ -1,5 +1,0 @@
-backtrader==1.9.78.123
-pandas
-matplotlib
-ccxt
-python-telegram-bot==13.15
